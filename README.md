@@ -1,0 +1,2 @@
+# mogo-practice
+Апатика
